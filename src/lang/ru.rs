@@ -146,7 +146,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("Set Password", "Установить пароль"),
         ("OS Password", "Пароль входа в ОС"),
         ("install_tip", "В некоторых случаях из-за UAC RustDesk может работать неправильно на удалённом узле. Чтобы избежать возможных проблем с UAC, нажмите кнопку ниже для установки RustDesk в системе."),
-        ("Click to upgrade", "Нажмите, чтобы обновить"),
+        ("Click to upgrade", "Обновить"),
         ("Click to download", "Нажмите, чтобы скачать"),
         ("Click to update", "Нажмите, чтобы обновить"),
         ("Configure", "Настроить"),
